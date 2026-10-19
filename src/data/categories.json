@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Obra e construção",
+    "slug": "obra-e-construcao"
+  },
+  {
+    "name": "Reforma residencial",
+    "slug": "reforma-residencial"
+  },
+  {
+    "name": "Trabalho em altura",
+    "slug": "trabalho-em-altura"
+  },
+  {
+    "name": "Ferramentas e máquinas",
+    "slug": "ferramentas-e-maquinas"
+  },
+  {
+    "name": "Dicas de locação",
+    "slug": "dicas-de-locacao"
+  }
+]

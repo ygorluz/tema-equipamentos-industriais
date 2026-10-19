@@ -1,0 +1,90 @@
+[
+  {
+    "slug": "tatuape",
+    "nome": "Tatuapé",
+    "prep": "no",
+    "regiao": "Zona Leste de São Paulo",
+    "bairrosVizinhos": [
+      "Vila Formosa",
+      "Anália Franco",
+      "Carrão"
+    ],
+    "referenciaLocal": "Atendemos o Tatuapé e a Zona Leste, dos prédios em reforma perto do metrô aos condomínios da Anália Franco, com entrega e retirada de equipamentos na obra.",
+    "faq": [
+      {
+        "q": "Vocês entregam equipamento no Tatuapé?",
+        "a": "Sim. Fazemos entrega e retirada no Tatuapé e bairros vizinhos, com transporte adequado para os equipamentos maiores."
+      },
+      {
+        "q": "Dá para alugar por um fim de semana?",
+        "a": "Dá. Trabalhamos com diária, fim de semana, semana e mês, conforme a etapa da sua obra ou reforma."
+      }
+    ]
+  },
+  {
+    "slug": "santo-amaro",
+    "nome": "Santo Amaro",
+    "prep": "no",
+    "regiao": "Zona Sul de São Paulo",
+    "bairrosVizinhos": [
+      "Brooklin",
+      "Campo Belo",
+      "Santo Amaro"
+    ],
+    "referenciaLocal": "Levamos nossos equipamentos a Santo Amaro e à Zona Sul, atendendo desde reforma residencial até manutenção predial nos escritórios do Brooklin e do Campo Belo.",
+    "faq": [
+      {
+        "q": "Atendem manutenção predial em Santo Amaro?",
+        "a": "Sim. Locamos plataforma elevatória, andaime e ferramentas para manutenção de prédios e escritórios na região."
+      },
+      {
+        "q": "Precisa de caução para alugar?",
+        "a": "Na maioria dos equipamentos há uma caução de garantia, devolvida ao fim da locação. Informamos o valor no orçamento."
+      }
+    ]
+  },
+  {
+    "slug": "lapa",
+    "nome": "Lapa",
+    "prep": "na",
+    "regiao": "Zona Oeste de São Paulo",
+    "bairrosVizinhos": [
+      "Pompeia",
+      "Barra Funda",
+      "Perdizes"
+    ],
+    "referenciaLocal": "Atendemos a Lapa e a Zona Oeste, das reformas de casa na Pompeia às obras comerciais da Barra Funda, com equipamentos revisados e prontos para uso.",
+    "faq": [
+      {
+        "q": "Fazem entrega de betoneira e gerador na Lapa?",
+        "a": "Fazemos. Entregamos betoneira, gerador e demais equipamentos pesados direto no canteiro com transporte próprio."
+      },
+      {
+        "q": "Posso retirar o equipamento na loja?",
+        "a": "Pode. Equipamentos menores podem ser retirados e devolvidos na loja; os maiores entregamos na obra."
+      }
+    ]
+  },
+  {
+    "slug": "mooca",
+    "nome": "Mooca",
+    "prep": "na",
+    "regiao": "Zona Leste de São Paulo",
+    "bairrosVizinhos": [
+      "Brás",
+      "Belém",
+      "Tatuapé"
+    ],
+    "referenciaLocal": "Atendemos a Mooca e o entorno, dos galpões e comércios do Brás e do Belém às reformas dos sobrados e prédios residenciais da região.",
+    "faq": [
+      {
+        "q": "Atendem obra comercial e galpão na Mooca?",
+        "a": "Sim. Locamos plataforma, compactador, gerador e ferramentas para obra comercial, galpão e reforma na Mooca e arredores."
+      },
+      {
+        "q": "Em quanto tempo entregam?",
+        "a": "Com o pedido confirmado, agendamos a entrega na data combinada, normalmente no mesmo dia ou no dia seguinte para a região."
+      }
+    ]
+  }
+]

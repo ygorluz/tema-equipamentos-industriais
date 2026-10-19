@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Peça seu orçamento — AlugaPró Equipamentos",
+    "description": "Solicite orçamento de aluguel de ferramentas, plataforma, andaime, betoneira ou gerador na AlugaPró. Entrega e retirada em São Paulo e região."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Peça seu orçamento",
+      "title": "Orçamento sem compromisso em três etapas simples.",
+      "lead": "Informe o equipamento e seus dados — a gente confirma a reserva e a entrega.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Orçamento", "href": "/agendar" } ]
+    }},
+    { "type": "comoFunciona", "props": {
+      "eyebrow": "Como funciona",
+      "title": "Três etapas do pedido à entrega.",
+      "steps": [
+        { "n": "01", "title": "Orçamento", "text": "Conte o serviço pelo formulário ou WhatsApp." },
+        { "n": "02", "title": "Reserva", "text": "Confirmamos o equipamento, o período e a entrega." },
+        { "n": "03", "title": "Entrega", "text": "Levamos o equipamento revisado no prazo combinado." }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Solicite agora",
+      "title": "Preencha e receba seu orçamento.",
+      "services": ["Ferramentas elétricas", "Plataforma elevatória", "Andaimes", "Betoneira", "Compactador de solo", "Gerador de energia", "Compressor de ar", "Martelete e rompedor", "Lixadeira de piso"]
+    }}
+  ]
+}

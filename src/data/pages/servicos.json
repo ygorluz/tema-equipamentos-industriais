@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "title": "Equipamentos para alugar — AlugaPró Equipamentos",
+    "description": "Aluguel de ferramentas elétricas, plataforma elevatória, andaimes, betoneira, gerador, compressor e mais em São Paulo. Conheça todos os equipamentos da AlugaPró."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "O que alugamos",
+      "title": "Equipamento certo para cada etapa da obra.",
+      "lead": "Da ferramenta elétrica à plataforma elevatória — frota revisada, com entrega e retirada na obra.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Serviços", "href": "/servicos" } ]
+    }},
+    { "type": "servicos", "props": {
+      "fromData": true,
+      "cta": { "label": "Pedir orçamento", "href": "/agendar" }
+    }},
+    { "type": "porqueEscolher", "props": {
+      "eyebrow": "Por que alugar com a gente",
+      "title": "Equipamento revisado e suporte de verdade.",
+      "image": "/images/why.jpg",
+      "features": [
+        { "title": "Frota revisada", "text": "Cada equipamento sai testado e pronto." },
+        { "title": "Indicação técnica", "text": "Ajudamos a escolher o equipamento certo." },
+        { "title": "Orçamento sem compromisso", "text": "Diária, caução e frete claros." },
+        { "title": "Entrega ágil", "text": "Levamos na obra em São Paulo e região." },
+        { "title": "Clientes satisfeitos", "text": "Milhares de locações realizadas." },
+        { "title": "Prazo flexível", "text": "Diária, semana ou mês conforme a obra." }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Fale com a gente",
+      "title": "Peça seu orçamento sem compromisso.",
+      "services": ["Ferramentas elétricas", "Plataforma elevatória", "Andaimes", "Betoneira", "Compactador de solo", "Gerador de energia", "Compressor de ar", "Martelete e rompedor", "Lixadeira de piso"]
+    }}
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "hero": {
+    "title": "Locadora de equipamentos de confiança em São Paulo",
+    "desc": "Somos uma locadora de equipamentos para obra, reforma e manutenção, atendendo São Paulo e região. Trabalhamos com ferramentas elétricas, plataforma elevatória, andaimes, betoneira, compactador, gerador e compressor — todos revisados, com entrega e retirada na obra e suporte durante a locação.",
+    "image": ""
+  },
+  "content": {
+    "missionTitle": "Nosso compromisso",
+    "missionText": "Acreditamos que a obra não pode parar por falta de equipamento. Por isso revisamos cada máquina antes de entregar, indicamos o modelo certo para o seu serviço e damos suporte durante toda a locação.\n\nEntregamos no prazo combinado e trocamos o equipamento em caso de defeito de uso normal, para você tocar a obra sem dor de cabeça.",
+    "teamTitle": "Quem cuida do seu aluguel",
+    "teamText": "Por trás de cada locação existe uma equipe que atende, revisa, entrega e orienta o uso. É esse cuidado que garante o equipamento certo, funcionando, no momento em que você precisa."
+  },
+  "seo": {
+    "title": "",
+    "description": "",
+    "image": ""
+  }
+}

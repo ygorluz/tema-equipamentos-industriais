@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "title": "Sobre a AlugaPró Equipamentos",
+    "description": "Mais de 15 anos locando equipamentos para obra e reforma em São Paulo. Conheça a história e os valores da AlugaPró Equipamentos."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Sobre a empresa",
+      "title": "Aluguel de equipamentos com quem entende de obra.",
+      "lead": "Mais de uma década atendendo obras residenciais e comerciais em São Paulo.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Sobre", "href": "/sobre" } ]
+    }},
+    { "type": "sobre", "props": {
+      "image": "/images/about.jpg",
+      "badge": "15+ anos de locação",
+      "title": "Aluguel de equipamentos com quem entende de obra.",
+      "lead": "Atendemos desde reforma de apartamento até obra comercial, sempre com equipamento revisado e entrega na obra.",
+      "benefits": [
+        "Frota revisada e pronta para uso",
+        "Ferramentas, plataforma, andaime e betoneira",
+        "Entrega e retirada em São Paulo",
+        "Orçamento sem compromisso"
+      ],
+      "cta": { "label": "Pedir orçamento", "href": "#contato" }
+    }},
+    { "type": "numeros", "props": {
+      "stats": [
+        { "value": "15+", "label": "Anos no mercado" },
+        { "value": "5mil+", "label": "Locações realizadas" },
+        { "value": "200+", "label": "Equipamentos na frota" },
+        { "value": "98%", "label": "Clientes satisfeitos" }
+      ]
+    }},
+    { "type": "comoFunciona", "props": {
+      "eyebrow": "Como funciona",
+      "title": "Três etapas do pedido à entrega.",
+      "steps": [
+        { "n": "01", "title": "Orçamento", "text": "Conte o serviço pelo formulário ou WhatsApp." },
+        { "n": "02", "title": "Reserva", "text": "Confirmamos o equipamento, o período e a entrega." },
+        { "n": "03", "title": "Entrega", "text": "Levamos o equipamento revisado no prazo combinado." }
+      ]
+    }},
+    { "type": "depoimentos", "props": {
+      "eyebrow": "Depoimentos",
+      "title": "O que nossos clientes dizem.",
+      "rating": { "score": "4,9", "label": "média de satisfação" },
+      "items": [
+        { "quote": "Equipamento sempre revisado e entrega no prazo. Super recomendo.", "name": "Roberto L.", "role": "Cliente — Tatuapé" },
+        { "quote": "Aluguei plataforma e andaime, atendimento muito atencioso.", "name": "Mariana D.", "role": "Cliente — Santo Amaro" },
+        { "quote": "Entregaram a betoneira no mesmo dia. Sem estresse nenhum.", "name": "Thomas L.", "role": "Cliente — Mooca" }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Fale com a gente",
+      "title": "Peça seu orçamento sem compromisso.",
+      "services": ["Ferramentas elétricas", "Plataforma elevatória", "Andaimes", "Betoneira", "Compactador de solo", "Gerador de energia", "Compressor de ar", "Martelete e rompedor", "Lixadeira de piso"]
+    }}
+  ]
+}

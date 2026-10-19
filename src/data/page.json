@@ -1,0 +1,276 @@
+{
+  "blocks": [
+    {
+      "type": "hero",
+      "props": {
+        "eyebrow": "Aluguel de equipamentos em São Paulo",
+        "title": "Equipamento profissional para a sua obra, sem o custo de comprar.",
+        "lead": "Ferramentas elétricas, plataforma elevatória, andaimes, betoneira, gerador e mais — revisados, com entrega e retirada na obra. Orçamento rápido e sem compromisso.",
+        "cta": {
+          "label": "Pedir orçamento",
+          "href": "#contato"
+        },
+        "rating": {
+          "score": "5,0",
+          "count": "230+ avaliações"
+        },
+        "doctor": {
+          "name": "Atendimento técnico",
+          "role": "Locação e entrega",
+          "photo": "/images/doctor.jpg"
+        },
+        "contact": {
+          "phone": "(11) 0000-0000",
+          "hours": "Seg a Sex, 7h às 18h • Sáb até 12h"
+        }
+      }
+    },
+    {
+      "type": "sobre",
+      "props": {
+        "image": "/images/about.jpg",
+        "badge": "+15 anos locando equipamentos em SP",
+        "eyebrow": "Sobre a locadora",
+        "title": "Equipamento revisado, entregue pronto para trabalhar.",
+        "lead": "Cuidamos de cada etapa: indicação do equipamento certo, revisão antes da entrega e suporte durante a locação, sem você parar a obra.",
+        "benefits": [
+          "Frota revisada e pronta para uso",
+          "Entrega e retirada na sua obra",
+          "Diária, semana ou mês",
+          "Suporte e troca em caso de defeito"
+        ],
+        "cta": {
+          "label": "Conheça a locadora",
+          "href": "/sobre"
+        }
+      }
+    },
+    {
+      "type": "servicos",
+      "props": {
+        "eyebrow": "O que alugamos",
+        "title": "Equipamentos para obra, reforma e manutenção.",
+        "items": [
+          {
+            "title": "Ferramentas elétricas",
+            "text": "Furadeira, parafusadeira, serra e esmerilhadeira."
+          },
+          {
+            "title": "Plataforma elevatória",
+            "text": "Tesoura e articulada para trabalho em altura."
+          },
+          {
+            "title": "Andaimes",
+            "text": "Tubular e fachadeiro com peças completas."
+          },
+          {
+            "title": "Betoneira",
+            "text": "De 120 a 400 litros para concreto e argamassa."
+          }
+        ],
+        "cta": {
+          "label": "Ver todos os equipamentos",
+          "href": "/servicos"
+        }
+      }
+    },
+    {
+      "type": "numeros",
+      "props": {
+        "stats": [
+          {
+            "value": "15+",
+            "label": "Anos de locação"
+          },
+          {
+            "value": "5mil+",
+            "label": "Locações realizadas"
+          },
+          {
+            "value": "24h",
+            "label": "Prazo médio de entrega"
+          },
+          {
+            "value": "98%",
+            "label": "Clientes satisfeitos"
+          }
+        ]
+      }
+    },
+    {
+      "type": "porqueEscolher",
+      "props": {
+        "eyebrow": "Por que alugar com a gente",
+        "title": "Equipamento certo, na hora certa, sem dor de cabeça.",
+        "image": "/images/why.jpg",
+        "features": [
+          {
+            "title": "Frota revisada",
+            "text": "Cada equipamento sai testado e pronto para uso."
+          },
+          {
+            "title": "Entrega na obra",
+            "text": "Levamos e buscamos os equipamentos pesados."
+          },
+          {
+            "title": "Orçamento transparente",
+            "text": "Diária, caução e frete claros, sem surpresa."
+          },
+          {
+            "title": "Suporte durante a locação",
+            "text": "Deu defeito de uso normal, a gente troca."
+          },
+          {
+            "title": "Indicação técnica",
+            "text": "Ajudamos a escolher o equipamento certo."
+          },
+          {
+            "title": "Prazo flexível",
+            "text": "Diária, semana ou mês conforme a obra."
+          }
+        ]
+      }
+    },
+    {
+      "type": "comoFunciona",
+      "props": {
+        "eyebrow": "Como funciona",
+        "title": "Três passos do orçamento à entrega.",
+        "steps": [
+          {
+            "n": "01",
+            "title": "Orçamento",
+            "text": "Conte o serviço pelo WhatsApp e indicamos o equipamento."
+          },
+          {
+            "n": "02",
+            "title": "Reserva",
+            "text": "Confirme o período e a entrega ou retirada na loja."
+          },
+          {
+            "n": "03",
+            "title": "Entrega",
+            "text": "Levamos o equipamento revisado e pronto para trabalhar."
+          }
+        ]
+      }
+    },
+    {
+      "type": "equipe",
+      "props": {
+        "eyebrow": "Nossa equipe",
+        "title": "Gente que entende de equipamento e de obra.",
+        "members": [
+          {
+            "name": "Atendimento",
+            "role": "Orçamento e reserva",
+            "photo": "/images/team-1.jpg"
+          },
+          {
+            "name": "Equipe técnica",
+            "role": "Revisão dos equipamentos",
+            "photo": "/images/team-2.jpg"
+          },
+          {
+            "name": "Logística",
+            "role": "Entrega e retirada",
+            "photo": "/images/team-3.jpg"
+          },
+          {
+            "name": "Suporte",
+            "role": "Orientação de uso",
+            "photo": "/images/team-4.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "depoimentos",
+      "props": {
+        "eyebrow": "Depoimentos",
+        "title": "O que nossos clientes dizem.",
+        "rating": {
+          "score": "4,9",
+          "label": "média de avaliações"
+        },
+        "items": [
+          {
+            "quote": "Aluguei a betoneira e o gerador, entregaram no mesmo dia. Resolveu a obra.",
+            "name": "Roberto L.",
+            "role": "Tatuapé"
+          },
+          {
+            "quote": "Plataforma elevatória revisada e fácil de operar. Atendimento atencioso.",
+            "name": "Mariana D.",
+            "role": "Santo Amaro"
+          },
+          {
+            "quote": "Precisei de andaime de última hora e entregaram rápido. Recomendo!",
+            "name": "Thiago L.",
+            "role": "Lapa"
+          }
+        ]
+      }
+    },
+    {
+      "type": "antesDepois",
+      "props": {
+        "eyebrow": "Equipamentos",
+        "title": "Frota pronta para a sua obra.",
+        "items": [
+          {
+            "label": "Plataforma elevatória",
+            "before": "/images/before-1.jpg",
+            "after": "/images/after-1.jpg"
+          },
+          {
+            "label": "Betoneira e ferramentas",
+            "before": "/images/before-2.jpg",
+            "after": "/images/after-2.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "novidades",
+      "props": {
+        "eyebrow": "Novidades",
+        "title": "Dicas sobre aluguel de equipamentos.",
+        "items": [
+          {
+            "title": "Alugar ou comprar equipamento de obra?",
+            "excerpt": "Quando a locação compensa mais que a compra.",
+            "image": "/images/post-1.jpg",
+            "href": "/alugar-ou-comprar-equipamento-de-obra"
+          },
+          {
+            "title": "Como escolher a potência do gerador",
+            "excerpt": "Dimensione certo e evite desarme na obra.",
+            "image": "/images/post-2.jpg",
+            "href": "/como-escolher-a-potencia-do-gerador"
+          },
+          {
+            "title": "Trabalho em altura com segurança",
+            "excerpt": "Plataforma e andaime sem improviso.",
+            "image": "/images/post-3.jpg",
+            "href": "/trabalho-em-altura-com-seguranca"
+          }
+        ]
+      }
+    },
+    {
+      "type": "ctaContato",
+      "props": {
+        "eyebrow": "Fale com a gente",
+        "title": "Peça seu orçamento de aluguel sem compromisso.",
+        "services": [
+          "Ferramentas elétricas",
+          "Plataforma elevatória",
+          "Andaimes",
+          "Betoneira",
+          "Gerador de energia"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "title": "Nossa equipe — AlugaPró Equipamentos",
+    "description": "Equipe especializada em atendimento, revisão e entrega de equipamentos para obra em São Paulo. Conheça o time da AlugaPró Equipamentos."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Nossa equipe",
+      "title": "Gente que entende de equipamento e de obra.",
+      "lead": "Profissionais que atendem, revisam, entregam e orientam o uso de cada equipamento.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Equipe", "href": "/equipe" } ]
+    }},
+    { "type": "equipe", "props": {
+      "members": [
+        { "name": "Carlos Mendes", "role": "Atendimento e orçamento", "photo": "/images/team-1.jpg" },
+        { "name": "Rafael Souza", "role": "Revisão de equipamentos", "photo": "/images/team-2.jpg" },
+        { "name": "Lucas Ferreira", "role": "Logística e entrega", "photo": "/images/team-3.jpg" },
+        { "name": "André Lima", "role": "Suporte e orientação de uso", "photo": "/images/team-4.jpg" }
+      ]
+    }},
+    { "type": "numeros", "props": {
+      "stats": [
+        { "value": "15+", "label": "Anos no mercado" },
+        { "value": "5mil+", "label": "Locações realizadas" },
+        { "value": "200+", "label": "Equipamentos na frota" },
+        { "value": "98%", "label": "Clientes satisfeitos" }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Fale com a gente",
+      "title": "Peça seu orçamento sem compromisso.",
+      "services": ["Ferramentas elétricas", "Plataforma elevatória", "Andaimes", "Betoneira", "Compactador de solo", "Gerador de energia", "Compressor de ar", "Martelete e rompedor", "Lixadeira de piso"]
+    }}
+  ]
+}

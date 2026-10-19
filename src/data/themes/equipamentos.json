@@ -1,0 +1,17 @@
+{
+  "name": "Equipamentos",
+  "colors": {
+    "bg": "#FFFFFF",
+    "surface": "#FFFFFF",
+    "soft": "#F3F4F6",
+    "ink": "#18202A",
+    "ink-muted": "#586271",
+    "primary": "#18202A",
+    "secondary": "#C2410C",
+    "accent": "#F97316",
+    "accent-ink": "#18202A",
+    "accent-strong": "#B23A0B",
+    "border": "#E3E6EA"
+  },
+  "fonts": { "display": "'Poppins', sans-serif", "body": "'Poppins', sans-serif" }
+}
